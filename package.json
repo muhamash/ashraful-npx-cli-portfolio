@@ -1,0 +1,28 @@
+{
+  "name": "muhamash-cli",
+  "version": "2.0.0",
+  "description": "A simple terminal-style interactive portfolio CLI",
+  "main": "cli.js",
+  "bin": {
+    "muhamash-cli": "./cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": [
+    "cli",
+    "portfolio",
+    "terminal",
+    "interactive"
+  ],
+  "author": "Ashraful",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^5.1.0",
+    "chalk": "^5.0.0",
+    "figlet": "^1.5.0",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.0",
+    "ora": "^6.0.0"
+  }
+}
