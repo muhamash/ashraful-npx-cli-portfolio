@@ -21,3 +21,6 @@ To install and run the CLI globally via npm, run the following commands:
 
 ```bash
 npm install -g muhamash-cli
+
+```run
+nxp muhamash-cli
